@@ -1,0 +1,27 @@
+content,timestamp
+Dealer Not Found for the entered TIN  07490304324342,2016-12-11 17:35:36.206973
+content,timestamp
+Dealer details by TIN==>07490304055 : Search Time: 11/12/2016 5:36 PM,2016-12-11 17:36:28.221843
+TIN : 07490304055,2016-12-11 17:36:28.221843
+CST Number : 07490304055,2016-12-11 17:36:28.221843
+Dealer Name : RISHABH INDUSTRIES,2016-12-11 17:36:28.221843
+"Dealer Address : HOUSE NO.-11, BADLI, DELHI : 110042",2016-12-11 17:36:28.221843
+State Name : Delhi,2016-12-11 17:36:28.221843
+PAN : AGKPM2228C,2016-12-11 17:36:28.221843
+Date of Registration under CST Act(DD/MM/YY) : 16/01/06,2016-12-11 17:36:28.221843
+Dealer Registration Status under CST Act : Active,2016-12-11 17:36:28.221843
+This record is valid as on(DD/MM/YY) : 13/03/13,2016-12-11 17:36:28.221843
+content,timestamp
+Dealer Not Found for the entered TIN  07490304054,2016-12-11 17:36:28.221843
+content,timestamp
+Dealer Not Found for the entered TIN  07490304053,2016-12-11 17:36:28.221843
+content,timestamp
+Dealer Not Found for the entered TIN  07490304052,2016-12-11 17:36:28.221843
+content,timestamp
+Dealer Not Found for the entered TIN  07490304051,2016-12-11 17:36:28.221843
+content,timestamp
+Dealer Not Found for the entered TIN  07490304050,2016-12-11 17:36:28.221843
+content,timestamp
+Dealer Not Found for the entered TIN  07490304,2016-12-11 17:36:28.221843
+content,timestamp
+Dealer Not Found for the entered TIN  07490304324342,2016-12-11 17:36:28.221843
